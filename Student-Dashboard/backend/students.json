@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1764768463105,
+    "name": "ahmed",
+    "email": "ahmed23@gmail.com",
+    "course": "english101"
+  },
+  {
+    "id": 1764768492288,
+    "name": "sayed",
+    "email": "sayed65@gmail.com",
+    "course": "physics2"
+  },
+  {
+    "id": 1764768515533,
+    "name": "ali",
+    "email": "ali12@gmail.com",
+    "course": "calculus"
+  },
+  {
+    "id": 1764769563045,
+    "name": "Abdullah",
+    "email": "abdullah75@gmail.com",
+    "course": "Programming1"
+  },
+  {
+    "id": 1764770559979,
+    "name": "Abdelrahman",
+    "email": "abdulrahmanmah2004@gmail.com",
+    "course": "Software Engineering"
+  }
+]

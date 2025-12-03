@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Student Dashboard</h1>
+
+    <!-- Navigation buttons -->
+    <button id="btnAdd">Add Student</button>
+    <button id="btnView">View Students</button>
+
+    <!-- Add Student Section -->
+    <div id="addSection">
+        <h2>Add Student</h2>
+        <label>Name:</label><br>
+        <input type="text" id="name"><br><br>
+
+        <label>Email:</label><br>
+        <input type="email" id="email"><br><br>
+
+        <label>Course:</label><br>
+        <input type="text" id="course"><br><br>
+
+        <button id="submitStudent">Submit</button>
+
+        <p id="addMessage"></p>
+    </div>
+
+    <!-- View Students Section -->
+    <div id="viewSection" style="display:none;">
+        <h2>All Students</h2>
+        <div id="studentList">
+            Loading...
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
